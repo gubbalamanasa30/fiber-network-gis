@@ -50,7 +50,7 @@ def trace_fiber_path(start_id, connection_table_path):
 if __name__ == "__main__":
     # Test execution
     # Replace this path with your actual GDB path
-    gdb_path = r"C:\Users\manas\.gemini\antigravity\scratch\FiberNetwork.gdb"
+    gdb_path = r"C:\Users\manas\FiberNetwork.gdb"
     conn_table = f"{gdb_path}\\FiberConnection"
     
     # Example ID (This would need to exist in your data)
